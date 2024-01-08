@@ -1,0 +1,38 @@
+Nom       : ABDUL RAUF
+Prénom    : Roehan
+Groupe TP : 
+
+
+Consigne :  Ci-dessous, répondre à la place des « ... ».
+
+
+=====[ Temps ]==================================================================
+
+Temps passé sur la V1 : ... heures ... minutes
+Temps passé sur la V2 : ... heures ... minutes
+Pour la V2 on ne tiendra pas compte du temps passé sur la V1.
+Bien sûr, les temps renseignés ici ne sont pas pris en compte dans la notation.
+
+Je ne comprends pas la question !!!
+
+=====[ Questions ]==============================================================
+
+Indiquer la relation UML entre Cercle et le Point centre du cercle.
+-------------------------------------------------------------------
+
+La relation entre Cercle et le Point centre du cercle serait celle d'une association car un cercle peut etre associé à un point comme centre tandis qu'un point peut etre associé à plusieurs
+
+
+Comment est réalisée l'exigence E18 ?
+-------------------------------------
+
+Il faudrait créez des méthodes dans la classe Cercle qui permettent de modifier ces valeurs de manière contrôlée au lieu d'autoriser l'accès direct à ces attributs.
+
+
+
+=====[ Explications ]===========================================================
+
+(Facultatif) Donner ici les explications supplémentaires utiles à la
+compréhension du travail rendu.
+
+...
